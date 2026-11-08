@@ -51,4 +51,3 @@ Client-ը հասանելի է `http://localhost:5173`, API-ն՝ `http://localhos
 ## Տվյալների բազայի ֆայլեր
 
 `StudentMonitoring.Server/Database`-ում պահվում են authentication-ի և հրավերների SQL փոփոխությունները, ինչպես նաև միայն demo/test միջավայրի seed/update script-երը։ Դրանք մի գործարկեք ձեր իրական տվյալների բազայում առանց նախապես բազան պահուստավորելու և script-երի ազդեցությունը ստուգելու։
-
